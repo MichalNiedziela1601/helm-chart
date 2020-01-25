@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  iamat:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-01-25T18:39:12.3221972Z"
+    description: A Helm chart for the approval tools - iamat
+    digest: afcf03012a4327aebd95607594c88d8c3a159d1e9b6147602502d16e9ffcf2ca
+    maintainers:
+    - email: achref.gassoumi@ic-consult.com
+      name: Achref Gassoumi
+    - email: michal.niedziela@ic-consult.com
+      name: Michal Niedziela
+    name: iamat
+    urls:
+    - https://michalniedziela1601.github.io/helm-chart/iamat-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-01-25T18:39:12.3209288Z"
